@@ -1,6 +1,8 @@
 # Destinacio a Oslo (Noruega)
 Oslo es la capital i la ciutat mes poblada de Noruega, a mes de ser el seu centre politic, economic i cultural. Politicament constitueix un municipi i alhora una de les dinou provincies del pais. Segons el cens del 21 de novembre de 2018, la seva poblacio era de 673.469 habitants. Es la tercera ciutat i area urbana escandinava mes poblada nomes superada per Copenhaguen i Estocolm.
 ![Foto Oslo](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Bj%C3%B8rvika_-_Oslo%2C_Norway_2020-12-23.jpg/330px-Bj%C3%B8rvika_-_Oslo%2C_Norway_2020-12-23.jpg?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)
+
+[Mes informacio d'Oslo](https://es.wikipedia.org/wiki/Oslo)
 ## Llista de la Maleta
 * 3 Calçons
   * Negre
