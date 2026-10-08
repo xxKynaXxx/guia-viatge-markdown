@@ -16,27 +16,27 @@ Oslo es la capital i la ciutat mes poblada de Noruega, a mes de ser el seu centr
 * 2 Jaquetes
 * Ordinador
 * Carregador
-* Visio
+* Visió
   * Ulleres
   * lentilles
 * 2 Bocatas
-* Llibre Electronic
+* Llibre Electrònic
 * Documents
   * Pasaport
-  * Curriculum
+  * Currículum
 * Menjar
   * Sobrassada
   * Ensaimada
 ## TOP 3 Itinerari recomanat
-1. _**Museu Munch**_ : _El Museu va ser inaugurat el 1963 per mostrar les obres donades per Edvard Munch al seu testament. Descobreix que veure i la ubicacio a Oslo_
+1. _**Museu Munch**_ : _El Museu va ser inaugurat el 1963 per mostrar les obres donades per Edvard Munch al seu testament.
 
 ![Foto museo](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/New_Munch_Museum_in_Bj%C3%B8rvika_seen_from_south.jpg/330px-New_Munch_Museum_in_Bj%C3%B8rvika_seen_from_south.jpg?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)
 
-2. _**Parc Vigeland**_ : _Amb mes d'un milio de visitants cada any, el Parc vigeland es una de les atraccions mes visitades del pais i un dels racons mes estimats d'Oslo._ 
+2. _**Parc Vigeland**_ : _Amb mes d'un milio de visitants cada any, el Parc vigeland es una de les atraccions mes visitades del país i un dels racons mes estimats d'Oslo._ 
 
 ![Foto Parc](https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Vigelandspark_Oslo.jpg/330px-Vigelandspark_Oslo.jpg?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)
 
-3. _**Fortalesa de Akershus**_ : _Akershus es una atractiva fortalesa d'origen medieval atractiva que actualment compon una de les principals atraccions turistiques de Noruega._ 
+3. _**Fortalesa de Akershus**_ : _Akershus es una atractiva fortalesa d'origen medieval atractiva que actualment compon una de les principals atraccions turístiques de Noruega._ 
 
 ![Foto Fortalesa](https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/OSLO-NO-02_05_ubt.jpeg/330px-OSLO-NO-02_05_ubt.jpeg?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)
 
