@@ -4,7 +4,7 @@ Oslo es la capital i la ciutat mes poblada de Noruega, a mes de ser el seu centr
 ![Foto Oslo](https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Bj%C3%B8rvika_-_Oslo%2C_Norway_2020-12-23.jpg/330px-Bj%C3%B8rvika_-_Oslo%2C_Norway_2020-12-23.jpg?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)
 
 ### Enllaç
-[Mes informacio d'Oslo](https://es.wikipedia.org/wiki/Oslo)
+[Mes informació d'Oslo](https://es.wikipedia.org/wiki/Oslo)
 ## Llista de la Maleta
 * 3 Calçons
   * Negre
