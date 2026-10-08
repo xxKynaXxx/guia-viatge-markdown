@@ -28,7 +28,7 @@ Oslo es la capital i la ciutat mes poblada de Noruega, a mes de ser el seu centr
   * Sobrassada
   * Ensaimada
 ## TOP 3 Itinerari recomanat
-1. _**Museu Munch**_ : _El Museu va ser inaugurat el 1963 per mostrar les obres donades per Edvard Munch al seu testament.
+1. _**Museu Munch**_ : _El Museu va ser inaugurat el 1963 per mostrar les obres donades per Edvard Munch al seu testament._
 
 ![Foto museo](https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/New_Munch_Museum_in_Bj%C3%B8rvika_seen_from_south.jpg/330px-New_Munch_Museum_in_Bj%C3%B8rvika_seen_from_south.jpg?utm_source=es.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)
 
